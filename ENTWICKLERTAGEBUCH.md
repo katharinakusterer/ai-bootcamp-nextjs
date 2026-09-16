@@ -98,3 +98,12 @@ Ich wollte Änderungen ausprobieren, ohne direkt den Main-Branch zu verändern.
 
 **Lösung:**  
 Ich habe mit `git switch -c diary-completion` einen eigenen Branch erstellt und dort weitergearbeitet.
+## Tag 7 – Pull Requests
+**Was habe ich gelernt?**  
+Ich habe gelernt, wie Änderungen über einen Pull Request in den Main-Branch übernommen werden.
+
+**Problem:**  
+Änderungen aus einem separaten Branch müssen kontrolliert in die Hauptversion übernommen werden.
+
+**Lösung:**  
+Ich habe meine Änderungen in einem eigenen Branch committed und anschließend einen Pull Request für den Main-Branch erstellt.
