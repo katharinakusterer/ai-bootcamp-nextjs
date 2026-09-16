@@ -89,3 +89,12 @@ Das Projekt existierte zunächst nur lokal auf meinem Laptop.
 
 **Lösung:**  
 Ich habe ein GitHub Repository erstellt, es als Remote eingebunden und meine Commits mit `git push` hochgeladen.
+## Tag 6 – Branches
+**Was habe ich gelernt?**  
+Ich habe gelernt, mit Git Branches zu arbeiten.
+
+**Problem:**  
+Ich wollte Änderungen ausprobieren, ohne direkt den Main-Branch zu verändern.
+
+**Lösung:**  
+Ich habe mit `git switch -c diary-completion` einen eigenen Branch erstellt und dort weitergearbeitet.
