@@ -80,3 +80,12 @@ Ich war zunächst unsicher, welche Änderungen bereits committed waren.
 
 Mit `git status` und `git log` konnte ich den aktuellen Stand überprüfen.
 
+## Tag 5 – GitHub Repository
+**Was habe ich gelernt?**  
+Ich habe gelernt, ein lokales Git-Projekt mit einem GitHub Repository zu verbinden.
+
+**Problem:**  
+Das Projekt existierte zunächst nur lokal auf meinem Laptop.
+
+**Lösung:**  
+Ich habe ein GitHub Repository erstellt, es als Remote eingebunden und meine Commits mit `git push` hochgeladen.
