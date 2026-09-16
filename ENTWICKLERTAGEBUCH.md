@@ -1,0 +1,82 @@
+\# 7-Tage-Entwicklertagebuch
+
+
+
+\## Tag 1 – Next.js kennenlernen
+
+\*\*Was habe ich gelernt?\*\*  
+
+Ich habe gelernt, wie ein einfaches Next.js-Projekt aufgebaut ist.
+
+
+
+\*\*Problem:\*\*  
+
+Die Projektstruktur und die verschiedenen Dateien waren zunächst ungewohnt.
+
+
+
+\*\*Lösung:\*\*  
+
+Ich habe mir die vorhandenen Dateien angesehen und die Startseite schrittweise angepasst.
+
+
+
+\## Tag 2 – Lokale Entwicklungsumgebung
+
+\*\*Was habe ich gelernt?\*\*  
+
+Ich habe gelernt, eine Next.js-App mit `npm run dev` lokal zu starten.
+
+
+
+\*\*Problem:\*\*  
+
+Ich musste herausfinden, wo mein bestehendes Projekt gespeichert war.
+
+
+
+\*\*Lösung:\*\*  
+
+Ich habe über PowerShell nach `package.json` gesucht und so das Projekt wiedergefunden.
+
+
+
+\## Tag 3 – APIs und JSON
+
+\*\*Was habe ich gelernt?\*\*  
+
+Ich habe gelernt, einen API-Endpoint aufzurufen und eine JSON-Response zu lesen.
+
+
+
+\*\*Problem:\*\*  
+
+JSON enthält viele strukturierte Informationen und kann auf den ersten Blick unübersichtlich sein.
+
+
+
+\*\*Lösung:\*\*  
+
+Ich habe relevante Felder wie `name`, `status` und `species` identifiziert.
+
+
+
+\## Tag 4 – Git-Grundlagen
+
+\*\*Was habe ich gelernt?\*\*  
+
+Ich habe gelernt, Änderungen mit Git zu speichern und Commits zu erstellen.
+
+
+
+\*\*Problem:\*\*  
+
+Ich war zunächst unsicher, welche Änderungen bereits committed waren.
+
+
+
+\*\*Lösung:\*\*  
+
+Mit `git status` und `git log` konnte ich den aktuellen Stand überprüfen.
+
